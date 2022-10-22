@@ -6,7 +6,6 @@ import java.util.ArrayDeque;
  *  Read in the arguments into a queue.
  *  @author Nick Howe
  *  @version 26 September 2013
- *  Reference: https://replit.com/@nhowe/Tokenizer#Tokenizer.java
  */
 public class Tokenizer {
   /** Pattern that matches on words */
